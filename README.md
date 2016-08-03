@@ -1,5 +1,5 @@
 # DOM to Image
-
+canvas实现整个屏幕转为为图片
 ## What is it
 
 **dom-to-image** is a library which can turn arbitrary DOM node into
